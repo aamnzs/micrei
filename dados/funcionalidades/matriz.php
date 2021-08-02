@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-	<html lang="pt-br">
+<html lang="pt-br">
 		<head>
 			<meta charset="UTF-8">
 			<title>Perfil</title>
 		</head>
-		<body>
+	<body>
 			<?php
 			include '../inc/esqueleto.php';
 			?>
@@ -41,7 +41,7 @@
 						          </h2>
 						          <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
 						            <div class="accordion-body">
-						              <p class="card-text text-justify">Espaço para resposta da pergunta nr 1</p>
+						              <p class="card-text text-justify"><em>Espaço para resposta da pergunta nr 1</em></p>
 						            </div>
 						          </div>
 						        </div>
@@ -53,7 +53,7 @@
 						          </h2>
 						          <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 						            <div class="accordion-body">
-						              <p class="card-text text-justify">Espaço para resposta da pergunta nr 2</p>
+						              <p class="card-text text-justify"><em>Espaço para resposta da pergunta nr 2</em></p>
 						            </div>
 						          </div>
 						        </div>
@@ -65,7 +65,7 @@
 						          </h2>
 						          <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 						            <div class="accordion-body">
-						              <p class="card-text text-justify">Espaço para resposta da pergunta nr 3</p>
+						              <p class="card-text text-justify"><em>Espaço para resposta da pergunta nr 3</em></p>
 						            </div>
 						          </div>
 						        </div>
@@ -114,5 +114,5 @@
 				</div>
 			</div>
 			<br><br><br>
-		</body>
-	</html>
+	</body>
+</html>
