@@ -78,9 +78,9 @@
                                     </div>
                                     <div class="card-body">
                                         <p class="card-text text-center">Disponibilizaremos ferramentas de suporte administrativo, operacional e gerencial.</p>
-                                        <p align="center"><a href="./ferramentas/_ferramentas.php" target="_blank"><img src="https://www.imagensanimadas.com/data/media/411/trabalho-imagem-animada-0011.gif" width="150" border="0" alt="trabalho-imagem-animada-0011" /></a></p>
+                                        <p align="center"><a href="./funcionalidades/ferramentas.php" target="_blank"><img src="https://www.imagensanimadas.com/data/media/411/trabalho-imagem-animada-0011.gif" width="150" border="0" alt="trabalho-imagem-animada-0011" /></a></p>
                                         <div class="container-fluid" align="center">
-                                            <button type="button" class="btn btn-outline-info btn-sm"><a href="./ferramentas/_ferramentas.php" target="_blank">Exercitando  os músculos</a></button>
+                                            <button type="button" class="btn btn-outline-info btn-sm"><a href="./funcionalidades/ferramentas.php" target="_blank">Exercitando  os músculos</a></button>
                                         </div>
                                     </div>
                                 </div>
